@@ -5,6 +5,8 @@ Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 Microsoft.EntityFrameworkCore.Design
 
+AutoMapper.Extensions.Microsoft.DependencyInjection
+
 already Swashbuckle.AspNetCore
 
 #Database *create dabase in SSMS, copy connettion string from SQL Server Object Explorer -? propoeries of DB and in the right down corner connection string...
