@@ -4,7 +4,7 @@
 Microsoft.EntityFrameworkCore.SqlServer
 Microsoft.EntityFrameworkCore.Tools
 Microsoft.EntityFrameworkCore.Design
-
+//AutoMapper
 AutoMapper.Extensions.Microsoft.DependencyInjection
 
 already Swashbuckle.AspNetCore
